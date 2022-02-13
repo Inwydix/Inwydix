@@ -1,4 +1,6 @@
+Hi
 
+<!---
 Hallo, unknown pals from the Internet, I'm Inwydix (not my real name, just my online alias, ty) 
 
 I guess this is for me to talk about myself, so... I like to code, even tho I don't do it as much as I should or I would like. I'll use this as an excuse to do it more often and try to get better at it. I'll just try to share what I do in here, even if it ain't public, so I have some kind of "motivation" to do it regularly and get back some nice habits of mine, I hope you don't mind >.<
@@ -13,7 +15,7 @@ BEFORE I FORGET, Spanish is my mother language so I might commit the mistakes wh
 
 I guess that's all... if you are reading this by any chance, have a nice day/night :white_heart:
 
-<!---
+
 - 👋 Hi, I’m @Iwydix
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
