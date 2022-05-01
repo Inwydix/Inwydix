@@ -1,5 +1,11 @@
-Hi
+Hi hi~
 
+I'm Inwudix (that's the name I use online for most of my things). I have dumb ideas and I enjoy making even dumber stories. I like trying to make some games out of my ideas, but I'm currently coding some Discord bots using BDFD (Bot Designer For Discord) ✨
+I kinda know how to code, so I'll also put here whatever I make for practicing (even if it's in private lol) 
+
+I speak mostly english and spanish, but I won't be talking much in here, sorry 🙂
+
+And... that's all. Have a nice day/night!
 <!---
 Hallo, unknown pals from the Internet, I'm Inwydix (not my real name, just my online alias, ty) 
 
