@@ -4,7 +4,7 @@ I'm Inwydix (that's the name I use online for most of my things). My character i
 
 I have dumb ideas and I enjoy making even dumber stories. I like trying to make some games out of my ideas, but I'm currently coding some Discord bots using BDFD (Bot Designer For Discord), which consumes a lot of my free time, so games are on standby for some time ✨
 
-I kinda know how to code, I was studing how to make multiplatform apps not so long ago, but I had to drop out due to mental health problems. I do want to finish it, tho, so I'll also put here whatever I make for practicing (even if it's in private lol) 
+I kinda know how to code, I was studing how to make multiplatform apps not so long ago, but I had to drop out due to health problems. I do want to finish it, tho, so I'll also put here whatever I make for practicing (even if it's in private lol) 
 
 If I ever put things public for everyone to see, you will notice that they are mostly in english and spanish. I speak in those, so if you ever want to contact me in some day, there you go. (Don't expect a lot of talking or an instant reply, tho) 😶
 
