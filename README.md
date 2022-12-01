@@ -1,4 +1,5 @@
-Hi hi~
+Hi hi! I do stuff 🙂
+<!---Hi hi~
 
 I'm Inwydix (that's the name I use online for most of my things). My character is an octopus alien from space who is pretty sweet and kinda clumpsy (just as myself)
 
@@ -10,7 +11,7 @@ If I ever put things public for everyone to see, you will notice that they are m
 
 And... that should be more than enough. Have a nice day/night!
 
-<!---
+
 Hallo, unknown pals from the Internet, I'm Inwydix (not my real name, just my online alias, ty) 
 
 I guess this is for me to talk about myself, so... I like to code, even tho I don't do it as much as I should or I would like. I'll use this as an excuse to do it more often and try to get better at it. I'll just try to share what I do in here, even if it ain't public, so I have some kind of "motivation" to do it regularly and get back some nice habits of mine, I hope you don't mind >.<
