@@ -1,4 +1,5 @@
-Hi hi! I do stuff 🙂
+Hallo, here is where I save my projects, project related things and, well, stuff, in general 🙂
+
 <!---Hi hi~
 
 I'm Inwydix (that's the name I use online for most of my things). My character is an octopus alien from space who is pretty sweet and kinda clumpsy (just as myself)
