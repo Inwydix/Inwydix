@@ -1,4 +1,7 @@
-Hallo, here is where I save my projects, project related things and, well, stuff, in general 🙂
+Hallo, this is me! Inwydix.
+--> Currently studing to become a multiplatform app developer.
+--> Java, SQL, HTML, XML, BDScript (Bot Designer For Discord)
+--> ENG/ESP
 
 <!---Hi hi~
 
