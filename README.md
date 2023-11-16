@@ -1,5 +1,5 @@
 # Hallo!
-### Java, SQL, HTML, CSS, XML, Android Studio, BDScript (Bot Designer For Discord), RPG Maker, TiranoBuilder, Scrum, Git, Project Management
+### Java, Python, SQL, HTML, CSS, JavaScript, XML, Android Studio, BDScript (Bot Designer For Discord), RPG Maker, TyranoBuilder, Scrum, Git, Project Management
 
 ## ENG
 Welcome to my little profile. This is me, Inwydix! I save here stuff for my projects. I'm currently studing to become a multiplatform app developer. I speak English, but my first language is spanish. I am from Galicia, Spain. And I hope you enjoy my work as much as I enjoyed making it.
